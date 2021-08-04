@@ -68,4 +68,4 @@ The following table presents the basecamp's curriculum in chronological order in
 
 ##
 
-Made with <3 and inspired by AMAND
+Made with :heart: and inspired by Amanda P. Pinha
