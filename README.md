@@ -1,10 +1,8 @@
 # C Piscine @ 42sp
 
-This repository contains coding developed at 42sp C bootcamp, from 12/july/2021 to 31/july/2021.
+This repository contains code developed at 42sp C bootcamp, from 12/july/2021 to 31/july/2021.
 
-<p align="center">
-  <img src="">
-</p>
+![42-sp](https://user-images.githubusercontent.com/81205527/128257909-290234c4-81c5-4db4-8d8d-3b2b51ff535f.jpg)
 
 ## About 42
 
@@ -66,3 +64,8 @@ The following table presents the basecamp's curriculum in chronological order in
 |14	|[C 07](./c07)			|C		|about 1 day	|100 XP		|0% :x:				|-|			
 |15	|[C 08](./c08)			|C		|about 1 day	|100 XP		|0% :x:				|-|			
 |16	|Final Exam			|C		|about 8 hours	|375 XP		|58% :heavy_check_mark:		|level 6 - 10%	|
+
+
+##
+
+Made with <3 and inspired by AMAND
