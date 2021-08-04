@@ -47,7 +47,7 @@ The following table presents the basecamp's curriculum in chronological order in
 
 |#	|PROJECT			|LANGUAGE	|DURATION	|XP		|STATUS				|LEVEL	|
 |:-:|:--				|:-:		|--:		|--:		|--:				|:--	|
-|00	|Eu aceito			|N/A		|-		|0 XP		|100% :heavy_check_mark:	|level 0 - 0.08% |	
+|00	|Eu aceito			|N/A		|-		|0 XP		|100% :heavy_check_mark:	|level 0 - 8% |	
 |01	|Exam 00			|C		|about 4 hours	|225 XP		|4% :x:				|-|
 |02	|[Rush 00](./rush00)		|C		|2 days		|150 XP		|0% :x:				|-|
 |03	|[Shell 00](./shell00)		|Shell		|about 1 day	|100 XP		|100% :heavy_check_mark:	|level 0 - 97% |
