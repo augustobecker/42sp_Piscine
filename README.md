@@ -1,16 +1,16 @@
-# C Piscine @ 42sp
-
-This repository contains code developed at 42sp C bootcamp, from 12/july/2021 to 31/july/2021.
+<h1 align="center">  C Piscine @ 42sp </h1>
+<p align="center">:information_source: 42saopaulo's C bootcamp, a four week long trial period.
 
 ![42-sp](https://user-images.githubusercontent.com/81205527/128257909-290234c4-81c5-4db4-8d8d-3b2b51ff535f.jpg)
 
-## About 42
+<h2 align="center">  About 42 </h2>
 
 42 is a global education initiative that proposes a new way of learning technology: no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills.
 
-## Skills developed at 42
+<h2 align="center"> Skills developed at 42 </h2>
 
-### Hard Skills
+<h3 align="center"> Hard Skills </h3>
+
 #### C Language
 	The primary language learned at the 42's Piscine is C: dealing with variables,
 	pointers, memory allocation, macros, as well as creating functions and programs,
@@ -24,7 +24,8 @@ This repository contains code developed at 42sp C bootcamp, from 12/july/2021 to
 	All projects are submitted via a remote git repository, which demands students to
 	be at ease with such a system.
 
-### Soft Skills
+<h3 align="center"> Soft Skills </h3>
+
 #### Self-learning and proactiveness
 		At 42, self-learning is at the core of its peer to peer learning methodology. There
 		are no teachers whatsoever; the learning process is based on googling, enquiring
@@ -41,7 +42,7 @@ This repository contains code developed at 42sp C bootcamp, from 12/july/2021 to
 		they want, which demands excellent time management skills and resiliency for not
 		"drowning" amid the massive load of work demanded by the non-stop 26-day program.
     
-## Curriculum
+<h2 align="center"> Curriculum </h2>
 
 The following table presents the basecamp's curriculum in chronological order in which it was completed by me.
 
@@ -69,3 +70,5 @@ The following table presents the basecamp's curriculum in chronological order in
 ##
 
 Made with :heart: and inspired by Amanda P. Pinha
+
+This repository contains code developed at 42sp C bootcamp, from 12/july/2021 to 31/july/2021.
