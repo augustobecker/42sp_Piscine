@@ -3,13 +3,31 @@
 
 ![42-sp](https://user-images.githubusercontent.com/81205527/128257909-290234c4-81c5-4db4-8d8d-3b2b51ff535f.jpg)
 
-<h2 align="center">  About 42 </h2>
+## Index
+* [About 42](#about42)
+* [Admissions ](#admissions)
+* [Skills developed at 42](#skills)
+	* [Hard Skills](#hard-skills)
+		* C Language
+		* Shell
+		* Git
+	* [Soft Skills](#soft-skills)
+		* Self-learning and proactiveness
+		* Teamwork
+		* Time management and resiliency
+* [Curriculum](#curriculum)
+	
+<h2 align="center" id="about42">  About 42 </h2>
 
-42 is a global education initiative that proposes a new way of learning technology: no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills.
+42 is a global education initiative that proposes a new way of learning technology: no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills. Not to mention that it's completely free of charge and open to all with no prerequisites.
 
-<h2 align="center"> Skills developed at 42 </h2>
+<h2 align="center" id="admissions">  Admissions </h2>
+Admissions at 42 are unlike other colleges. We use a merit-based admission process.
+The final step of the admission is the Piscine - This is part of the admissions process and requires 4 weeks of intensive and immersive coding. No prior coding experience is necessary at all.
 
-<h3 align="center"> Hard Skills </h3>
+<h2 align="center" id="skills"> Skills developed at 42 </h2>
+
+<h3 align="center" id="hard-skills"> Hard Skills </h3>
 
 #### C Language
 	The primary language learned at the 42's Piscine is C: dealing with variables,
@@ -24,7 +42,7 @@
 	All projects are submitted via a remote git repository, which demands students to
 	be at ease with such a system.
 
-<h3 align="center"> Soft Skills </h3>
+<h3 align="center" id="soft-skills"> Soft Skills </h3>
 
 #### Self-learning and proactiveness
 		At 42, self-learning is at the core of its peer to peer learning methodology. There
@@ -42,13 +60,13 @@
 		they want, which demands excellent time management skills and resiliency for not
 		"drowning" amid the massive load of work demanded by the non-stop 26-day program.
     
-<h2 align="center"> Curriculum </h2>
+<h2 align="center" id="curriculum"> Curriculum </h2>
 
 The following table presents the basecamp's curriculum in chronological order in which it was completed by me.
 
 |#	|PROJECT			|LANGUAGE	|DURATION	|XP		|STATUS				|LEVEL	|
 |:-:|:--				|:-:		|--:		|--:		|--:				|:--	|
-|00	|Eu aceito			|N/A		|-		|0 XP		|100% :heavy_check_mark:	|level 0 - 8% |	
+|00	|Eu aceito			|-		|-		|0 XP		|100% :heavy_check_mark:	|level 0 - 8% |	
 |01	|Exam 00			|C		|about 4 hours	|225 XP		|4% :x:				|-|
 |02	|[Rush 00](./rush00)		|C		|2 days		|150 XP		|0% :x:				|-|
 |03	|[Shell 00](./shell00)		|Shell		|about 1 day	|100 XP		|100% :heavy_check_mark:	|level 0 - 97% |
@@ -69,6 +87,6 @@ The following table presents the basecamp's curriculum in chronological order in
 
 ##
 
-Made with :heart: and inspired by Amanda P. Pinha
+<p align="center"> Made with :heart: and inspired by Amanda P. Pinha </p>
 
-This repository contains code developed at 42sp C bootcamp, from 12/july/2021 to 31/july/2021.
+<p align="center">:information_source: This repository contains code developed at 42sp C bootcamp, from 12/july/2021 to 31/july/2021. </p>
