@@ -1,6 +1,8 @@
 <h1 align="center">  C Piscine @ 42sp </h1>
 <p align="center">:information_source: 42saopaulo's C bootcamp, a four week long trial period.
 
+<p align="center"><a href="https://www.42sp.org.br/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=SP&color=000&style=for-the-badge&logo=42""></a></p>
+	
 ![42-sp](https://user-images.githubusercontent.com/81205527/128257909-290234c4-81c5-4db4-8d8d-3b2b51ff535f.jpg)
 
 ## Index
